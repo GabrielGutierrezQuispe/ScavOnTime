@@ -1,2 +1,0 @@
-//Funcion para listar profesores
-
